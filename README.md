@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @The-iALONE
-- 👀 I’m interested in Web development and application development 
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me TG: @The_iALONE
